@@ -5,7 +5,7 @@ import joblib
 
 # Page configuration
 st.set_page_config(
-    page_title="CarPrice AI | Used Car Price Prediction",
+    page_title="CarPrice | Used Car Price Prediction",
     page_icon="🚗",
     layout="wide"
 )
@@ -68,7 +68,7 @@ st.markdown("""
 # Header
 st.markdown("""
 <div class="hero">
-    <h1>🚗 CarPrice AI</h1>
+    <h1>🚗 CarPrice</h1>
     <p>Smart Used Car Price Prediction System</p>
     <p>Estimate your car's market value using Machine Learning.</p>
 </div>
